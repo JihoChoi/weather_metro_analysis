@@ -1,4 +1,4 @@
-# weather_metro_analysis
+# Weather & Metro Analysis
 With KMA weather dataset &amp; Seoul metro dataset
 
 ## Visualization
